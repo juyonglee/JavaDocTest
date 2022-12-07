@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.gmail.juyonglee0208.SuperUser</OriginalElement>
+  <nodes>
+    <node x="0.0" y="215.0">com.gmail.juyonglee0208.SuperUser</node>
+    <node x="2.0" y="0.0">com.gmail.juyonglee0208.User</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.gmail.juyonglee0208.SuperUser" target="com.gmail.juyonglee0208.User" relationship="GENERALIZATION">
+      <point x="0.0" y="-38.5" />
+      <point x="0.0" y="82.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="93.0" y="146.0" />
+  <SelectedNodes>
+    <node>com.gmail.juyonglee0208.SuperUser</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
